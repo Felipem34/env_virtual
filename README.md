@@ -27,6 +27,7 @@ git config credential.helper store
 git push https://github.com/[your_repo].git
 ```
 use your personal acess token on github (Settings/Developer Settings) as password
+<!--- mnveMOnyUv]TV{9YVY_IV7pOx8oQ;_L}l:OS`]Z --->
 
 ### 7 install VSCode
 
