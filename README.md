@@ -25,7 +25,7 @@ touch ~/.inputrc >> "set completion-ignore-case on"
 | [git tutorial](https://www.w3schools.com/git/default.asp?remote=github) | -
 | [credentials](https://git-scm.com/docs/git-credential-store) |
 
-use this to save your credentials
+use this to save your credentials:
 ```
 git config credential.helper store
 git push https://github.com/[your_repo].git
