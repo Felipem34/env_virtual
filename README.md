@@ -29,5 +29,9 @@ git push https://github.com/[your_repo].git
 use your personal acess token on github (Settings/Developer Settings) as password
 <!--- mnveMOnyUv]TV{9YVY_IV7pOx8oQ;_L}l:OS`]Z --->
 
+| [resumo](https://rogerdudler.github.io/git-guide/index.pt_BR.html) | -
+| [git tutorial](https://www.w3schools.com/git/default.asp?remote=github) | -
+| [credentials](https://git-scm.com/docs/git-credential-store) |
+
 ### 7 install VSCode
 
