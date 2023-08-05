@@ -35,7 +35,7 @@ sudo apt install dconf-editor
 ```
  - go to: /org/gnome/desktop/wm/keybindings/always-on-top
  - unbind "use default value"
- - past: ['<Control><Shift>T']
+ - past: ```['<Control><Super>T']```
 
 
 #### 5.3 windows in center
@@ -67,5 +67,31 @@ use to install:
 ```
 sudo apt install python3-venv
 ```
+
+
+### 9 Install Arduino 2 IDE
+| [tutorial](https://www.youtube.com/watch?v=pLrKYRsJ3Eo) | -
+| [Dowload arduino AppImage](https://www.arduino.cc/en/software) | -
+| [Dowload amd64.deb](https://github.com/TheAssassin/AppImageLauncher/releases) |
+
+```
+sudo usermod -a -G dialout $USER
+reboot
+sudo add-apt-repository universe
+sudo apt update
+sudo apt install libfuse2
+
+sudo apt install python3-pip
+pip install pyserial
+```
+right click on "appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb", open with Other Application > Sofware Install > Install
+
+double click on the arduino AppImage > ok > integrate and run
+
+opened arduino > Select ESP32 Dev Module and it would ask to dowload the board > select DOIT ESP32 DEVKIT V1
+
+
+
+
 
 
