@@ -44,6 +44,14 @@ sudo apt install gnome-tweaks
 ```
 Windows>Center New Windows
 
+### 5.4 extensions
+```
+sudo apt install gnome-shell-extension-manager
+```
+ - Clipboard Indicator
+ - Vitals
+
+
 
 ### 6 install git
 | [resumo](https://rogerdudler.github.io/git-guide/index.pt_BR.html) | -
