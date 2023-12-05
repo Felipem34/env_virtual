@@ -22,11 +22,6 @@ Portuguese(Brazil, no dead keys)
 sudo nano ~/.inputrc
 set completion-ignore-case on
 ```
- - try touch?
-```
-touch ~/.inputrc >> "set completion-ignore-case on"
-```
-
 
 #### 5.2 set always on top hotkey
 install [dconf](https://fostips.com/set-always-on-top-hotkey-ubuntu-20-04/)
