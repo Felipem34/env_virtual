@@ -63,6 +63,9 @@ use your personal acess token on github (Settings/Developer Settings) as passwor
 
 
 ### 7 install VSCode
+```
+sudo snap install --classic code
+```
 
 ### 8 install PlatformIO IDE
 [follow this guide](https://www.youtube.com/watch?v=5edPOlQQKmo&list=PLzvRQMJ9HDiQ3OIuBWCEW6yE0S0LUWhGU&index=7)
