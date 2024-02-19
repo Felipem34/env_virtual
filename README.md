@@ -1,4 +1,4 @@
-# How to create a env to code with virtual machine
+# How to create a env to code in a virtual machine
 
 ### 1 Download Oracle VM virtualBox 
 don't forget the Extension Pack
